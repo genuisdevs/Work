@@ -69,7 +69,7 @@
       "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
     },
     {
-      "name": "hello",
+      "name": "Guko",
       "image": "file:///android_asset/goku.jpg",
       "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
       "link_saves": "null",
