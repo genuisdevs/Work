@@ -31,7 +31,7 @@
     {
       "name": "Kick Buddy",
       "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
+      "link_mods": "https://files.mcpelife.com/minecraft-pe/mods/true-tools-addon/true-tools-addon.mcaddon",
       "link_saves": "null",
       "type": "C",
       "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
