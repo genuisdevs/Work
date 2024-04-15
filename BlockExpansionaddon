@@ -33,16 +33,16 @@
       "image": "https://fmcpe.com/uploads/posts/2023-07/more-food.jpg",
       "link_mods": "https://fmcpe.com/index.php?do=download&id=3198&hash=9427005bd07bca821002a491413b4b5d",
       "link_saves": "null",
-      "type": "C",
+      "type": "B",
       "description": "Download addon from your device\n1.Find and open .mcpack or .mcworld files that you download\n2.Click it to import\n3.Open the game"
     },
     {
-      "name": "Block Expansion addon 2",
-      "image": "https://fmcpe.com/uploads/posts/2022-06/nicos-1.jpg",
+      "name": "Food Plus addon",
+      "image": "https://fmcpe.com/uploads/posts/2022-02/1645014491_food-plus-3.jpg",
       "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+      "link_saves": "null",
+      "type": "B",
+      "description": "Download addon from your device\n1.Find and open .mcpack or .mcworld files that you download\n2.Click it to import\n3.Open the game"
     }
   ]
 }
