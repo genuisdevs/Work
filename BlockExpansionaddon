@@ -29,15 +29,15 @@
   ],
   "Mods": [
     {
-      "name": "Block Expansion addon",
-      "image": "https://fmcpe.com/uploads/posts/2022-06/nicos.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
+      "name": "More Food addon",
+      "image": "https://fmcpe.com/uploads/posts/2023-07/more-food.jpg",
+      "link_mods": "https://fmcpe.com/index.php?do=download&id=3198&hash=9427005bd07bca821002a491413b4b5d",
       "link_saves": "null",
       "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
+      "description": "Download addon from your device\n1.Find and open .mcpack or .mcworld files that you download\n2.Click it to import\n3.Open the game"
     },
     {
-      "name": "Plant Wubbox",
+      "name": "Block Expansion addon 2",
       "image": "https://fmcpe.com/uploads/posts/2022-06/nicos-1.jpg",
       "link_mods": "null",
       "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
