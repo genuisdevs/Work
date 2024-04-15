@@ -39,7 +39,7 @@
     {
       "name": "Food Plus addon",
       "image": "https://fmcpe.com/uploads/posts/2022-02/1645014491_food-plus-3.jpg",
-      "link_mods": "null",
+      "link_mods": "https://fmcpe.com/index.php?do=download&id=1904&hash=34aff7981ec1b27858ea89a28f8cf210",
       "link_saves": "null",
       "type": "B",
       "description": "Download addon from your device\n1.Find and open .mcpack or .mcworld files that you download\n2.Click it to import\n3.Open the game"
